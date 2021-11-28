@@ -1,0 +1,5 @@
+﻿SELECT TOP (1000) [OrderID]
+      ,[CustomerID]
+      ,[BookID]
+      ,[OrderDate]
+  FROM [Library].[dbo].[Order]
